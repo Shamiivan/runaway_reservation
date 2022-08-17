@@ -10,7 +10,7 @@ Imagine an airport with a single runaway. We need to schedule a reservation for 
 
 ## Example
 consider the set of times request for landing
-$$R = {35-41-49-56} $$ and k =3  and now = 35
+$$R = \{35-41-49-56} $$ and k =3  and now = 35
 
 - request to land at t = 49 not okay because $49\subset B$
 - request to land at t =53 is okay
